@@ -1,3 +1,16 @@
-name,score
-Alice,95
-Bob,88
+employee_id,first_name,last_name,department,position,hire_date,salary,performance_score,years_experience,location,email,phone
+E001,Sarah,Johnson,Engineering,Senior Software Engineer,2021-03-15,95000,4.2,8,Seattle,sarah.johnson@company.com,(555) 123-4567
+E002,Michael,Chen,Marketing,Marketing Manager,2020-07-22,72000,3.8,5,New York,michael.chen@company.com,(555) 234-5678
+E003,Emily,Rodriguez,Sales,Account Executive,2022-01-10,68000,4.5,3,Austin,emily.rodriguez@company.com,(555) 345-6789
+E004,David,Thompson,Engineering,DevOps Engineer,2019-11-08,88000,4.0,12,Seattle,david.thompson@company.com,(555) 456-7890
+E005,Lisa,Wang,Finance,Financial Analyst,2021-08-30,62000,3.9,4,Chicago,lisa.wang@company.com,(555) 567-8901
+E006,James,Martinez,Engineering,Frontend Developer,2023-02-14,75000,4.1,2,Remote,james.martinez@company.com,(555) 678-9012
+E007,Anna,Kowalski,HR,HR Business Partner,2020-05-18,70000,4.3,7,New York,anna.kowalski@company.com,(555) 789-0123
+E008,Robert,Lee,Sales,Sales Director,2018-09-25,105000,4.4,15,San Francisco,robert.lee@company.com,(555) 890-1234
+E009,Jennifer,Brown,Marketing,Content Specialist,2022-06-12,58000,3.7,3,Austin,jennifer.brown@company.com,(555) 901-2345
+E010,Kevin,Davis,Engineering,Backend Developer,2021-12-03,82000,4.0,6,Seattle,kevin.davis@company.com,(555) 012-3456
+E011,Maria,Garcia,Finance,Senior Accountant,2019-04-16,66000,4.2,9,Chicago,maria.garcia@company.com,(555) 123-4567
+E012,Thomas,Wilson,Sales,Account Manager,2022-10-07,71000,3.6,4,Remote,thomas.wilson@company.com,(555) 234-5678
+E013,Amanda,Taylor,Engineering,Data Scientist,2020-12-21,92000,4.5,7,San Francisco,amanda.taylor@company.com,(555) 345-6789
+E014,Christopher,Anderson,Marketing,Digital Marketing Lead,2021-05-09,76000,4.1,5,New York,chris.anderson@company.com,(555) 456-7890
+E015,Michelle,Thomas,HR,Recruiter,2023-01-23,55000,3.8,2,Remote,michelle.thomas@company.com,(555)
